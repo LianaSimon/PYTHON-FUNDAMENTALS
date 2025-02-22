@@ -1,6 +1,71 @@
-# PYTHON-FUNDAMENTALS
+# 📌 PYTHON-FUNDAMENTALS
 
 (Assg:1 on Python-Used Jupyter Notebook to execute the codes)
+
+Welcome to the Python Fundamentals repository! This project contains 10 exercises covering the basics of Python programming, designed to help beginners practice and improve their coding skills.
+
+
+## 🚀 Exercises Overview
+
+🔹 Exercise 1: Printing Personal Details
+
+Prints the user's name, student number, and email address.
+
+🔹 Exercise 2: Using Escape Sequences
+
+Prints the user's details using escape sequences for formatted output.
+
+🔹 Exercise 3: Basic Arithmetic Operations
+
+Performs addition, subtraction, multiplication, and division on two numbers.
+
+🔹 Exercise 4: Number Steps
+
+Displays numbers from 1 to 5 in steps using a loop.
+
+🔹 Exercise 5: Quotation Marks in Strings
+
+Outputs a sentence containing special characters and quotes.
+
+🔹 Exercise 6: Escape Sequence Demonstration
+
+Explores various escape sequences like \n, \t, \b, \x, and sep in Python strings.
+
+🔹 Exercise 7: Variable Types & Type Conversion
+
+Defines different variable types, prints their data types, and demonstrates type conversion.
+
+🔹 Exercise 8: Calculating Minutes in a Year
+
+Uses variables to compute the total minutes in a year based on days, hours, and minutes.
+
+🔹 Exercise 9: User Input & Greeting
+
+Prompts the user for their name and prints a personalized greeting.
+
+🔹 Exercise 10: Currency Converter (Pounds to Dollars)
+
+Converts an input amount from British Pounds (£) to US Dollars ($) using a predefined exchange rate.
+
+
+## 🔧 Installation & Usage
+
+1. Clone the repository
+
+2. Navigate into the directory
+
+3. Run the script using Python
+   
+
+## 📖 Prerequisites
+
+Python 3.x installed
+
+Jupyter Notebook (optional, for better readability and execution) 
+
+
+# SCRIPTS AND OUTPUTS
+
 
 ## Exercise 1
 
@@ -252,6 +317,10 @@ print("£",pounds,"are","$",dollars)
 
 
 
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repository, improve the exercises, and submit a pull request.
 
 
 
